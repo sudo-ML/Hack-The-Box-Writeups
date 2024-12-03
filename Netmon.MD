@@ -6,5 +6,5 @@
 
 First scanning with NMAP shows open ports on 21, 80, 135, 139, 445 and 5985
 
-I always like to run NMAP with the flags ```-sC -sC -vv`` for basic scripts, service detection and verbose results.
+I always like to run NMAP with the flags ```-sC -sC -vv``` for basic scripts, service detection and verbose results.
 
